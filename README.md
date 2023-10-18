@@ -1,1 +1,1 @@
-# AppMobileAnwendungen
+# App für Mobile Anwendungen
